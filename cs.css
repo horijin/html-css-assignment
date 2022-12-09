@@ -1,0 +1,32 @@
+
+      table,
+      td {
+        border: 1px solid gray;
+      }
+body{
+    background-color:#EBEB91 ;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    background:#8c0431;
+    border-bottom: 10px solid rgb(213, 8, 8);
+    text-align: center;
+    color: #EBEB91;
+    letter-spacing: 5px;
+}
+.H2{
+    background-color: green;
+    color: aliceblue;
+    padding-left: 10px;
+}
+img{
+    border:3px dotted grey ;
+}
+table,td{
+    background-color: rgb(185, 180, 180);
+    border: 1px solid black;
+}
+
+.gg{
+    color: rgb(154, 148, 148);
+}
